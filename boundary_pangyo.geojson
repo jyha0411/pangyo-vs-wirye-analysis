@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.094,
+              37.4043848
+            ],
+            [
+              127.1147961,
+              37.4043848
+            ],
+            [
+              127.1147961,
+              37.387
+            ],
+            [
+              127.094,
+              37.387
+            ],
+            [
+              127.094,
+              37.4043848
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "판교테크노밸리",
+        "region": "pangyo"
+      }
+    }
+  ]
+}

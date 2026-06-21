@@ -1,0 +1,1781 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "판교",
+        "linenm": "경강선",
+        "travel_min": 0.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.11144319589552,
+          37.39478218191577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "이매",
+        "linenm": "경강선",
+        "travel_min": 4.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12731612795024,
+          37.39471204844055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "삼동",
+        "linenm": "경강선",
+        "travel_min": 9.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.20342545155974,
+          37.408720901714815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "경기광주",
+        "linenm": "경강선",
+        "travel_min": 14.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.25322304647938,
+          37.39897470821774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "초월",
+        "linenm": "경강선",
+        "travel_min": 18.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2998832452716,
+          37.37339127196922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "곤지암",
+        "linenm": "경강선",
+        "travel_min": 23.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.34625353575343,
+          37.35053613625162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "신둔도예촌",
+        "linenm": "경강선",
+        "travel_min": 28.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.40524573211432,
+          37.315605515371374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "위례스마트시티",
+        "linenm": "위례선",
+        "travel_min": 29.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.13472877737894,
+          37.46901415690397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "복정",
+        "linenm": "위례선",
+        "travel_min": 27.5,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1270278105517,
+          37.47088445717129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "방배",
+        "linenm": "서울2호선",
+        "travel_min": 27.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99759853941435,
+          37.48147207698431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "서초",
+        "linenm": "서울2호선",
+        "travel_min": 24.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.00770165990149,
+          37.491811823574814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "교대",
+        "linenm": "서울2호선",
+        "travel_min": 22.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0145212219361,
+          37.49391874143159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "강남",
+        "linenm": "서울2호선",
+        "travel_min": 20.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.02806167769988,
+          37.49811677955261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "역삼",
+        "linenm": "서울2호선",
+        "travel_min": 22.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03636840669158,
+          37.50063961417192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "선릉",
+        "linenm": "서울2호선",
+        "travel_min": 24.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.04884944742884,
+          37.50447516204327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "삼성",
+        "linenm": "서울2호선",
+        "travel_min": 26.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06313210133392,
+          37.50891530115271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "종합운동장",
+        "linenm": "서울2호선",
+        "travel_min": 28.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0738741898419,
+          37.51114024667451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "옥수",
+        "linenm": "서울3호선",
+        "travel_min": 29.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0173497078396,
+          37.54164650164616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "압구정",
+        "linenm": "서울3호선",
+        "travel_min": 27.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.02849480804664,
+          37.52683240163011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "신사",
+        "linenm": "서울3호선",
+        "travel_min": 24.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.02031497821802,
+          37.51644325136979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "잠원",
+        "linenm": "서울3호선",
+        "travel_min": 26.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0115777959725,
+          37.51297848809268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "고속터미널",
+        "linenm": "서울3호선",
+        "travel_min": 24.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.00493444785856,
+          37.50486906037078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "교대",
+        "linenm": "서울3호선",
+        "travel_min": 22.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0138279671102,
+          37.49296656096792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "남부터미널",
+        "linenm": "서울3호선",
+        "travel_min": 20.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0163021415056,
+          37.48500070905941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "양재",
+        "linenm": "서울3호선",
+        "travel_min": 17.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0338695771307,
+          37.48458004712426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "매봉",
+        "linenm": "서울3호선",
+        "travel_min": 20.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.04677618667324,
+          37.48696948538969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "도곡",
+        "linenm": "서울3호선",
+        "travel_min": 22.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0555675006598,
+          37.491048742482185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "대치",
+        "linenm": "서울3호선",
+        "travel_min": 23.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06288260206011,
+          37.49438321809049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "학여울",
+        "linenm": "서울3호선",
+        "travel_min": 25.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07121516297254,
+          37.49685981421995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "대청",
+        "linenm": "서울3호선",
+        "travel_min": 27.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07965438746068,
+          37.49351094157151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "일원",
+        "linenm": "서울3호선",
+        "travel_min": 27.4,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0842561048024,
+          37.48389237561364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "수서",
+        "linenm": "서울3호선",
+        "travel_min": 24.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1020946489058,
+          37.48744612229928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "가락시장",
+        "linenm": "서울3호선",
+        "travel_min": 27.4,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1176994968518,
+          37.49224072819765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "경찰병원",
+        "linenm": "서울3호선",
+        "travel_min": 28.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12438262870327,
+          37.49583762756161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "내방",
+        "linenm": "서울7호선",
+        "travel_min": 28.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99366333702754,
+          37.48767847349902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "고속터미널",
+        "linenm": "서울7호선",
+        "travel_min": 25.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.00509044776165,
+          37.50343658308469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "반포",
+        "linenm": "서울7호선",
+        "travel_min": 23.6,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.01147731905736,
+          37.50812717016541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "논현",
+        "linenm": "서울7호선",
+        "travel_min": 22.1,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.021853180708,
+          37.51126113697782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "학동",
+        "linenm": "서울7호선",
+        "travel_min": 23.9,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03181201807584,
+          37.51434017199306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "강남구청",
+        "linenm": "서울7호선",
+        "travel_min": 25.6,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0410971937261,
+          37.5171658604025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "청담",
+        "linenm": "서울7호선",
+        "travel_min": 27.6,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05357716068204,
+          37.5194288912404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "모란",
+        "linenm": "서울8호선",
+        "travel_min": 20.5,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12979700679932,
+          37.43401380632197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "수진",
+        "linenm": "서울8호선",
+        "travel_min": 22.5,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.14085740225366,
+          37.43749374732599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "신흥",
+        "linenm": "서울8호선",
+        "travel_min": 24.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.14760299428023,
+          37.440910752121255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "단대오거리",
+        "linenm": "서울8호선",
+        "travel_min": 25.5,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.15672440797957,
+          37.44508841834457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "남한산성입구",
+        "linenm": "서울8호선",
+        "travel_min": 27.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.16003270270654,
+          37.45203498104027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "산성",
+        "linenm": "서울8호선",
+        "travel_min": 29.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1499895659972,
+          37.45687166092399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "복정",
+        "linenm": "서울8호선",
+        "travel_min": 26.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12676817610888,
+          37.470868178941465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "장지",
+        "linenm": "서울8호선",
+        "travel_min": 28.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12621866852548,
+          37.47858602461259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "문정",
+        "linenm": "서울8호선",
+        "travel_min": 29.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12239054688452,
+          37.48599958850546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "남위례",
+        "linenm": "서울8호선",
+        "travel_min": 28.5,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.13969234334893,
+          37.46249121266242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "신반포",
+        "linenm": "서울9호선",
+        "travel_min": 29.4,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99611730898998,
+          37.50349234382109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "고속터미널",
+        "linenm": "서울9호선",
+        "travel_min": 27.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.00404071210666,
+          37.5059333743048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "사평",
+        "linenm": "서울9호선",
+        "travel_min": 25.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0151631744664,
+          37.50422483239932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "신논현",
+        "linenm": "서울9호선",
+        "travel_min": 23.1,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.02584213308398,
+          37.5049205564883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "언주",
+        "linenm": "서울9호선",
+        "travel_min": 25.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03388761609956,
+          37.50732567260436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "선정릉",
+        "linenm": "서울9호선",
+        "travel_min": 27.5,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.04413239250458,
+          37.510338197449975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "삼성중앙",
+        "linenm": "서울9호선",
+        "travel_min": 29.6,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0533265789544,
+          37.51303446510631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "기흥",
+        "linenm": "분당선",
+        "travel_min": 27.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.11596117176872,
+          37.27548895165585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "신갈",
+        "linenm": "분당선",
+        "travel_min": 25.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1113292802862,
+          37.28614017206379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "구성",
+        "linenm": "분당선",
+        "travel_min": 23.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10567039677504,
+          37.29897873981181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "보정",
+        "linenm": "분당선",
+        "travel_min": 20.6,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10834005272706,
+          37.31279826193464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "죽전",
+        "linenm": "분당선",
+        "travel_min": 17.6,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10756652082291,
+          37.32470333266271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "오리",
+        "linenm": "분당선",
+        "travel_min": 14.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1089653267135,
+          37.33986223006651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "미금",
+        "linenm": "분당선",
+        "travel_min": 12.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10901849475744,
+          37.35005408399885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "정자",
+        "linenm": "분당선",
+        "travel_min": 9.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10805027517874,
+          37.36637015292752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "수내",
+        "linenm": "분당선",
+        "travel_min": 12.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1143520319864,
+          37.37845478546335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "서현",
+        "linenm": "분당선",
+        "travel_min": 11.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12345491196908,
+          37.38502792700807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "이매",
+        "linenm": "분당선",
+        "travel_min": 9.5,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12828907263012,
+          37.39642775541209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "야탑",
+        "linenm": "분당선",
+        "travel_min": 12.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1286852017904,
+          37.41180416352642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "모란",
+        "linenm": "분당선",
+        "travel_min": 15.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12906689217004,
+          37.432299307382586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "태평",
+        "linenm": "분당선",
+        "travel_min": 17.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12780338697468,
+          37.4397579701397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "가천대",
+        "linenm": "분당선",
+        "travel_min": 19.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1266911670322,
+          37.44886491716168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "복정",
+        "linenm": "분당선",
+        "travel_min": 22.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.126555484368,
+          37.47088919380632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "수서",
+        "linenm": "분당선",
+        "travel_min": 25.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10179180251572,
+          37.487183508394914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "대모산입구",
+        "linenm": "분당선",
+        "travel_min": 29.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.07272520536556,
+          37.49139885544521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "구룡",
+        "linenm": "분당선",
+        "travel_min": 29.1,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05959630216212,
+          37.48702793012337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "도곡",
+        "linenm": "분당선",
+        "travel_min": 27.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05528972002826,
+          37.49126963926923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "한티",
+        "linenm": "분당선",
+        "travel_min": 29.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05289869433383,
+          37.496292233946704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "신사",
+        "linenm": "신분당선",
+        "travel_min": 17.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.01938995736656,
+          37.51660518723846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "논현",
+        "linenm": "신분당선",
+        "travel_min": 16.6,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.02148163870044,
+          37.5107948116954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "신논현",
+        "linenm": "신분당선",
+        "travel_min": 15.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0246034538366,
+          37.50426117404449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "강남",
+        "linenm": "신분당선",
+        "travel_min": 13.9,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.02829567320644,
+          37.49661485108958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "양재",
+        "linenm": "신분당선",
+        "travel_min": 11.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03491881007974,
+          37.483707202554456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "양재시민의숲",
+        "linenm": "신분당선",
+        "travel_min": 9.6,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03847630891948,
+          37.47013079615356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "청계산입구",
+        "linenm": "신분당선",
+        "travel_min": 6.6,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05481605824002,
+          37.448208355455385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "판교",
+        "linenm": "신분당선",
+        "travel_min": 0.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.11115660285478,
+          37.39456947025172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "정자",
+        "linenm": "신분당선",
+        "travel_min": 3.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10853330157944,
+          37.36731490403886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "미금",
+        "linenm": "신분당선",
+        "travel_min": 6.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10882039582212,
+          37.350043730204725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "동천",
+        "linenm": "신분당선",
+        "travel_min": 8.6,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10282103853412,
+          37.33792959003132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "수지구청",
+        "linenm": "신분당선",
+        "travel_min": 11.5,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0947672791618,
+          37.32255214257053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "성복",
+        "linenm": "신분당선",
+        "travel_min": 14.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.08034168829444,
+          37.31342955195196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "상현",
+        "linenm": "신분당선",
+        "travel_min": 17.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06933533255231,
+          37.29774945722412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "광교중앙",
+        "linenm": "신분당선",
+        "travel_min": 20.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.05164498562326,
+          37.2884501592719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "광교",
+        "linenm": "신분당선",
+        "travel_min": 23.9,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.04436155242844,
+          37.3020620582772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "서울역",
+        "linenm": "GTX_A",
+        "travel_min": 24.9,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97008315962778,
+          37.55549841523453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "삼성",
+        "linenm": "GTX_A",
+        "travel_min": 18.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06254819504764,
+          37.509771638932015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "수서",
+        "linenm": "GTX_A",
+        "travel_min": 15.8,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10246845537694,
+          37.486392416412166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "성남",
+        "linenm": "GTX_A",
+        "travel_min": 10.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.12086379733869,
+          37.39508384285294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "구성",
+        "linenm": "GTX_A",
+        "travel_min": 16.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10447748156407,
+          37.29924690741223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "동탄",
+        "linenm": "GTX_A",
+        "travel_min": 22.3,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0962534758153,
+          37.200156519373536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "정부과천청사",
+        "linenm": "GTX_C",
+        "travel_min": 27.1,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.99681401577432,
+          37.432736488679616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "양재",
+        "linenm": "GTX_C",
+        "travel_min": 22.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0337983991954,
+          37.485537462493696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "삼성",
+        "linenm": "GTX_C",
+        "travel_min": 25.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.06255285659152,
+          37.51027848094224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "동작",
+        "linenm": "서울9호선급행",
+        "travel_min": 29.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9785908278192,
+          37.502936332057935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "고속터미널",
+        "linenm": "서울9호선급행",
+        "travel_min": 27.1,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.00395600288556,
+          37.50610053366641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "신논현",
+        "linenm": "서울9호선급행",
+        "travel_min": 24.1,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.02576262558544,
+          37.50508932731812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "선정릉",
+        "linenm": "서울9호선급행",
+        "travel_min": 27.2,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0440542026834,
+          37.51050736146603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "왕십리",
+        "linenm": "GTX_C",
+        "travel_min": 28.7,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.03900739938722,
+          37.56121627615389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "인덕원",
+        "linenm": "GTX_C",
+        "travel_min": 29.5,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97686282512318,
+          37.40152897876752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "statnm": "성남",
+        "linenm": "경강선",
+        "travel_min": 2.0,
+        "origin": "판교"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.11939278676086,
+          37.39474732415628
+        ]
+      }
+    }
+  ]
+}
