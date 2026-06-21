@@ -5,7 +5,7 @@
 토지이용, 교통망, 인구사회 지표를 비교분석한 웹 기반 시각화 시스템
 
 ## 배포 URL
-[https://jyha0411.github.io/pangyo-vs-wirye-analysis/docs/](https://jyha0411.github.io/pangyo-vs-wirye-analysis/docs/index.html)
+https://jyha0411.github.io/pangyo-vs-wirye-analysis/docs/index.html
 
 ## 데이터 출처 및 기준 시점
 - **건축물 용도 (판교)**: OpenStreetMap (OSM) 건물 폴리곤 + 국토교통부 건축데이터민간개방시스템 건축물대장 — 성남시 분당구 (2026년 6월 기준)
@@ -20,10 +20,10 @@
 본 프로젝트는 데이터의 재현성을 위해 전처리부터 분석까지 단계별 파이썬 스크립트로 모듈화하여 수행하였음.
 
 1. **구역 경계 설정** (`01_boundary.py`)  
-   분석 대상지(판교테크노밸리, 위례신도시)의 공간적 범위(Bounding Box) 설정 및 GeoJSON 폴리곤 생성
+   분석 대상지(판교테크노밸리, 위례신도시)의 공간적 범위 설정 및 GeoJSON 폴리곤 생성
 
 2. **인구사회 데이터 전처리** (`02_census.py`, `03_census_spatial.py`)  
-   SGIS 집계구 데이터를 분석 구역 경계와 공간 결합(Spatial Join)하여 인구·종사자수 매핑 및 직주비 산출
+   SGIS 집계구 데이터를 분석 구역 경계와 공간 결합하여 인구·종사자수 매핑 및 직주비 산출
 
 3. **교통망 및 등시간권 분석** (`04_subway.py`, `06_isochrone_polygon.py`, `09_station_area.py`)  
    `subway_network.zip` 기반 Dijkstra 최단경로 알고리즘으로 30분/60분 등시간권 폴리곤 생성 및 역세권 면적 비율(500m/1km) 산출
