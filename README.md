@@ -5,7 +5,7 @@
 토지이용, 교통망, 인구사회 지표를 비교분석한 웹 기반 시각화 시스템
 
 ## 배포 URL
-https://jyha0411.github.io/pangyo-vs-wirye-analysis/docs/
+[https://jyha0411.github.io/pangyo-vs-wirye-analysis/docs/](https://jyha0411.github.io/pangyo-vs-wirye-analysis/docs/index.html)
 
 ## 데이터 출처 및 기준 시점
 - **건축물 용도 (판교)**: OpenStreetMap (OSM) 건물 폴리곤 + 국토교통부 건축데이터민간개방시스템 건축물대장 — 성남시 분당구 (2026년 6월 기준)
