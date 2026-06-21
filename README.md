@@ -4,7 +4,7 @@
 판교테크노밸리(성공 사례)와 위례신도시(미성숙 업무단지)를 대상으로 토지이용, 교통망, 인구사회 지표를 비교분석한 웹 기반 시각화 시스템
 
 ## 배포 URL
-[https://jyha0411.github.io/pangyo-vs-wirye-analysis/docs/](https://jyha0411.github.io/pangyo-vs-wirye-analysis/docs/)
+https://jyha0411.github.io/pangyo-vs-wirye-analysis/docs/
 
 ## 데이터 출처
 - 건축물대장: 국토교통부 건축데이터민간개방시스템
